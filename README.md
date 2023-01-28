@@ -6,7 +6,7 @@
 
 In this repo the goal is to create APIs using Flask and Python. 
 
-Link: https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#api-terminology
+Study Resource: https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#api-terminology
 
 
 
